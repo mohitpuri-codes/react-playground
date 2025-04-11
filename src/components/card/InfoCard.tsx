@@ -1,4 +1,3 @@
-import React from "react";
 import { CardDetails } from "../../data";
 
 function InfoCard({ title, description }: CardDetails) {
